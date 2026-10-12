@@ -1,6 +1,6 @@
 # Andimus
 
-Public pages of Andimus, the shared sign-in for the system's apps (ViPharMind, Andv LMS):
+Public pages of Andimus, the shared sign-in for the system's apps (ViPharMind, ViEdSpark):
 home, `/privacy` and `/terms`. Google's OAuth consent screen (Google Cloud project `andimus`)
 links to them. Static HTML, deployed on Vercel at https://andimus.vercel.app.
 
